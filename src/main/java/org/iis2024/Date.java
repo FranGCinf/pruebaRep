@@ -84,4 +84,8 @@ public class Date {
       return false;
     }
   }
+  private void suma(int a, int b){
+    int c;
+    c=a+b;
+  }
 }
